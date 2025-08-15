@@ -1,6 +1,6 @@
 # 🎯 PitchSnitch
 
-A dark-themed Streamlit application powered by Claude that transforms raw hackathon ideas into winning strategies and actionable plans.
+A AI powered platform that transforms raw hackathon ideas into winning strategies and actionable plans.
 
 ## Features
 
