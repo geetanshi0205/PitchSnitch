@@ -1,6 +1,6 @@
 # 🎯 PitchSnitch
 
-A AI powered platform that transforms raw hackathon ideas into winning strategies and actionable plans.
+An AI-powered platform that transforms raw hackathon ideas into winning strategies and actionable plans.
 
 ## Features
 
